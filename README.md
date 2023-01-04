@@ -15,4 +15,5 @@ Pull this repo and drag all the folders into the Pi Pico.
 
 The next time you connect your Pi Pico, once the warning LED lights counts to 0, you'll never be idle again.
 
-
+# Config fields
+Do remember to change this especially the idle timing (default=10s), since I was too lazy to get a push button, it works based on a countdown.
